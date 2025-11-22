@@ -1,0 +1,2072 @@
+[
+  {
+    "id": 1,
+    "nome": "Paracetamol 500mg",
+    "descricao": "Analgésico e antipirético, indicado para o alívio de dores leves e moderadas.",
+    "categoria": "Analgésicos",
+    "preco": 200,
+    "estoque": 150,
+    "detalhes": {
+      "fabricante": "Farmacêutica ABC",
+      "data_validade": "2024-11-30",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Amoxicilina 875mg",
+    "descricao": "Antibiótico de amplo espectro, usado para tratar infecções bacterianas.",
+    "categoria": "Antibióticos",
+    "preco": 500,
+    "estoque": 80,
+    "detalhes": {
+      "fabricante": "Farmacêutica XYZ",
+      "data_validade": "2025-12-31",
+      "dosagem": "875mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Ibuprofeno 400mg",
+    "descricao": "Anti-inflamatório não esteroidal (AINE), usado para reduzir inflamação e dor.",
+    "categoria": "Anti-inflamatórios",
+    "preco": 500,
+    "estoque": 200,
+    "detalhes": {
+      "fabricante": "Farmacêutica ABC",
+      "data_validade": "2024-06-30",
+      "dosagem": "400mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Vitamina C 1g",
+    "descricao": "Suplemento alimentar que auxilia no funcionamento do sistema imunológico.",
+    "categoria": "Suplementos",
+    "preco": 300,
+    "estoque": 120,
+    "detalhes": {
+      "fabricante": "NutriHealth",
+      "data_validade": "2026-03-15",
+      "dosagem": "1g",
+      "forma_farmaceutica": "Comprimidos efervescentes"
+    }
+  },
+  {
+    "id": 5,
+    "nome": "Loratadina 10mg",
+    "descricao": "Antihistamínico utilizado para aliviar sintomas de alergias sazonais.",
+    "categoria": "Antialérgicos",
+    "preco": 500,
+    "c": 90,
+    "detalhes": {
+      "fabricante": "Farmacêutica XYZ",
+      "data_validade": "2025-09-20",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-001",
+    "nome": "Artesunato e Mefloquina",
+    "descricao": "Tratamento combinado essencial para malária não complicada.",
+    "categoria": "Antimalárico",
+    "preco": 850.55,
+    "estoque": 4500,
+    "dosagem": "100mg/250mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmaco Lusitana",
+      "data_validade": "2025-11-01",
+      "dosagem": "100mg/250mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-002",
+    "nome": "Metformina",
+    "descricao": "Medicamento oral usado para tratar a diabetes tipo 2.",
+    "categoria": "Hipoglicemiante",
+    "preco": 150.9,
+    "estoque": 12000,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Global Pharma",
+      "data_validade": "2024-12-31",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-003",
+    "nome": "Captopril",
+    "descricao": "Inibidor da ECA para tratamento da hipertensão arterial.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 95,
+    "estoque": 9800,
+    "dosagem": "25mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Angola Medicamentos S.A.",
+      "data_validade": "2026-03-20",
+      "dosagem": "25mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-004",
+    "nome": "Azitromicina",
+    "descricao": "Antibiótico macrolídeo para infeções respiratórias e cutâneas.",
+    "categoria": "Antibiótico",
+    "preco": 420.75,
+    "estoque": 7500,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "African Health",
+      "data_validade": "2025-09-15",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-005",
+    "nome": "Sulfametoxazol + Trimetoprima",
+    "descricao": "Antibiótico de largo espectro (cotrimoxazol), eficaz contra infeções bacterianas.",
+    "categoria": "Antibiótico",
+    "preco": 310.2,
+    "estoque": 6000,
+    "dosagem": "400mg/80mg",
+    "forma_farmaceutica": "Suspensão Oral",
+    "detalhes": {
+      "fabricante": "Pharma Kids",
+      "data_validade": "2026-01-10",
+      "dosagem": "400mg/80mg",
+      "forma_farmaceutica": "Suspensão Oral"
+    }
+  },
+  {
+    "id": "ANG-006",
+    "nome": "Dipirona Sódica",
+    "descricao": "Analgésico e antipirético potente, usado para dores e febre.",
+    "categoria": "Analgésico",
+    "preco": 65.4,
+    "estoque": 15000,
+    "dosagem": "500mg/mL",
+    "forma_farmaceutica": "Gotas",
+    "detalhes": {
+      "fabricante": "Mediprodutos Lda",
+      "data_validade": "2025-05-01",
+      "dosagem": "500mg/mL",
+      "forma_farmaceutica": "Gotas"
+    }
+  },
+  {
+    "id": "ANG-007",
+    "nome": "Cloroquina",
+    "descricao": "Profilaxia e tratamento de malária e amebíase extra-intestinal.",
+    "categoria": "Antimalárico",
+    "preco": 280,
+    "estoque": 5200,
+    "dosagem": "150mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmácia Popular",
+      "data_validade": "2024-11-25",
+      "dosagem": "150mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-008",
+    "nome": "Sais de Reidratação Oral (SRO)",
+    "descricao": "Essencial para repor eletrólitos perdidos durante diarreia.",
+    "categoria": "Eletrolítico",
+    "preco": 50.1,
+    "estoque": 25000,
+    "dosagem": "Padrão OMS",
+    "forma_farmaceutica": "Pó para Solução",
+    "detalhes": {
+      "fabricante": "Health Aid",
+      "data_validade": "2027-02-01",
+      "dosagem": "Padrão OMS",
+      "forma_farmaceutica": "Pó para Solução"
+    }
+  },
+  {
+    "id": "ANG-009",
+    "nome": "Omeprazol",
+    "descricao": "Inibidor da bomba de protões, usado para úlceras e refluxo gastroesofágico.",
+    "categoria": "Antiulceroso",
+    "preco": 180.3,
+    "estoque": 11000,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Europharma",
+      "data_validade": "2026-06-18",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "ANG-010",
+    "nome": "Albendazol",
+    "descricao": "Anti-helmíntico de largo espectro para tratamento de verminoses.",
+    "categoria": "Anti-helmíntico",
+    "preco": 115.6,
+    "estoque": 8800,
+    "dosagem": "400mg",
+    "forma_farmaceutica": "Comprimidos Mastigáveis",
+    "detalhes": {
+      "fabricante": "Phytobio",
+      "data_validade": "2025-08-05",
+      "dosagem": "400mg",
+      "forma_farmaceutica": "Comprimidos Mastigáveis"
+    }
+  },
+  {
+    "id": "ANG-011",
+    "nome": "Furosemida",
+    "descricao": "Diurético de alça para tratar edemas e hipertensão.",
+    "categoria": "Diurético",
+    "preco": 75.9,
+    "estoque": 5500,
+    "dosagem": "40mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Sigma Labs",
+      "data_validade": "2027-01-01",
+      "dosagem": "40mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-012",
+    "nome": "Diclofenaco Sódico",
+    "descricao": "Anti-inflamatório não esteroide (AINE) para dor e inflamação.",
+    "categoria": "Anti-inflamatório",
+    "preco": 130.45,
+    "estoque": 10500,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Medicamentos Essenciais",
+      "data_validade": "2025-03-12",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-013",
+    "nome": "Prednisolona",
+    "descricao": "Corticosteroide usado para condições inflamatórias e alérgicas.",
+    "categoria": "Corticosteroide",
+    "preco": 250,
+    "estoque": 4800,
+    "dosagem": "5mg/5ml",
+    "forma_farmaceutica": "Xarope",
+    "detalhes": {
+      "fabricante": "Pharma Kids",
+      "data_validade": "2024-10-30",
+      "dosagem": "5mg/5ml",
+      "forma_farmaceutica": "Xarope"
+    }
+  },
+  {
+    "id": "ANG-014",
+    "nome": "Salbutamol",
+    "descricao": "Broncodilatador para alívio rápido de crises de asma.",
+    "categoria": "Respiratório",
+    "preco": 550.8,
+    "estoque": 3500,
+    "dosagem": "100mcg/puff",
+    "forma_farmaceutica": "Aerossol",
+    "detalhes": {
+      "fabricante": "Respira Life",
+      "data_validade": "2026-07-01",
+      "dosagem": "100mcg/puff",
+      "forma_farmaceutica": "Aerossol"
+    }
+  },
+  {
+    "id": "ANG-015",
+    "nome": "Glibenclamida",
+    "descricao": "Sulfonilureia usada no tratamento de diabetes tipo 2.",
+    "categoria": "Hipoglicemiante",
+    "preco": 105.15,
+    "estoque": 6200,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "DiabCare",
+      "data_validade": "2025-10-10",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-016",
+    "nome": "Ranitidina",
+    "descricao": "Antagonista H2 para reduzir a acidez estomacal.",
+    "categoria": "Antiulceroso",
+    "preco": 140.6,
+    "estoque": 7900,
+    "dosagem": "150mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Global Pharma",
+      "data_validade": "2024-11-01",
+      "dosagem": "150mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-017",
+    "nome": "Clotrimazol",
+    "descricao": "Antifúngico tópico para tratar infeções fúngicas da pele.",
+    "categoria": "Antifúngico",
+    "preco": 190,
+    "estoque": 9100,
+    "dosagem": "1%",
+    "forma_farmaceutica": "Creme Tópico",
+    "detalhes": {
+      "fabricante": "Dermacare",
+      "data_validade": "2026-04-15",
+      "dosagem": "1%",
+      "forma_farmaceutica": "Creme Tópico"
+    }
+  },
+  {
+    "id": "ANG-018",
+    "nome": "Doxiciclina",
+    "descricao": "Antibiótico tetraciclina usado para várias infeções bacterianas e profilaxia da malária.",
+    "categoria": "Antibiótico",
+    "preco": 350.5,
+    "estoque": 5800,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Angola Medicamentos S.A.",
+      "data_validade": "2025-12-01",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "ANG-019",
+    "nome": "Complexo B Forte",
+    "descricao": "Suplemento de vitaminas do complexo B, essencial para o metabolismo.",
+    "categoria": "Suplemento",
+    "preco": 220.7,
+    "estoque": 13000,
+    "dosagem": "Fórmula Padrão",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "VitaEssentials",
+      "data_validade": "2027-03-01",
+      "dosagem": "Fórmula Padrão",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-020",
+    "nome": "Ácido Fólico",
+    "descricao": "Importante para a formação de células sanguíneas e prevenção de defeitos do tubo neural.",
+    "categoria": "Suplemento",
+    "preco": 60.25,
+    "estoque": 18000,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Materna Care",
+      "data_validade": "2026-09-22",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-021",
+    "nome": "Fosfato de Codeína",
+    "descricao": "Antitússico e analgésico opioide leve.",
+    "categoria": "Antitússico",
+    "preco": 380,
+    "estoque": 3000,
+    "dosagem": "15mg/5ml",
+    "forma_farmaceutica": "Xarope",
+    "detalhes": {
+      "fabricante": "Soothe Cough",
+      "data_validade": "2025-06-01",
+      "dosagem": "15mg/5ml",
+      "forma_farmaceutica": "Xarope"
+    }
+  },
+  {
+    "id": "ANG-022",
+    "nome": "Hidroclorotiazida",
+    "descricao": "Diurético tiazídico, frequentemente usado no tratamento da hipertensão.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 85,
+    "estoque": 7000,
+    "dosagem": "12.5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Sigma Labs",
+      "data_validade": "2027-04-10",
+      "dosagem": "12.5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-023",
+    "nome": "Propranolol",
+    "descricao": "Beta-bloqueador usado para tratar hipertensão, angina e enxaquecas.",
+    "categoria": "Cardiovascular",
+    "preco": 170.9,
+    "estoque": 4500,
+    "dosagem": "40mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Cardio Care",
+      "data_validade": "2026-02-14",
+      "dosagem": "40mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-024",
+    "nome": "Cetirizina",
+    "descricao": "Anti-histamínico para alívio de alergias e rinite sazonal.",
+    "categoria": "Anti-histamínico",
+    "preco": 125.3,
+    "estoque": 8300,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Allergy Relief",
+      "data_validade": "2025-11-20",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "ANG-025",
+    "nome": "Benzilpenicilina Benzatina",
+    "descricao": "Penicilina de longa ação, usada contra infeções estreptocócicas e sífilis.",
+    "categoria": "Antibiótico",
+    "preco": 620,
+    "estoque": 2800,
+    "dosagem": "1.2 Milhões UI",
+    "forma_farmaceutica": "Pó para Injeção",
+    "detalhes": {
+      "fabricante": "Injeções Plus",
+      "data_validade": "2025-07-07",
+      "dosagem": "1.2 Milhões UI",
+      "forma_farmaceutica": "Pó para Injeção"
+    }
+  },
+  {
+    "id": "A_001",
+    "nome": "Acetaminofeno",
+    "descricao": "Analgésico e antipirético usado para aliviar dores leves a moderadas e febre.",
+    "categoria": "Analgésico",
+    "preco": 0.85,
+    "estoque": 5200,
+    "dosagem": "750mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmaco Lusitana",
+      "data_validade": "2025-11-20",
+      "dosagem": "750mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_002",
+    "nome": "Amoxicilina + Ácido Clavulânico",
+    "descricao": "Antibiótico de largo espectro usado para tratar infeções bacterianas, incluindo respiratórias e cutâneas.",
+    "categoria": "Antibiótico",
+    "preco": 12.9,
+    "estoque": 950,
+    "dosagem": "500mg/125mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Biolab Pharma",
+      "data_validade": "2026-03-15",
+      "dosagem": "500mg/125mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A_003",
+    "nome": "Diclofenaco de Potássio",
+    "descricao": "Anti-inflamatório não esteroide (AINE) eficaz contra dores agudas e inflamações.",
+    "categoria": "Anti-inflamatório",
+    "preco": 3.4,
+    "estoque": 1800,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Drágeas",
+    "detalhes": {
+      "fabricante": "Angola Saúde",
+      "data_validade": "2024-12-01",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Drágeas"
+    }
+  },
+  {
+    "id": "A_004",
+    "nome": "Atorvastatina Cálcica",
+    "descricao": "Usado para reduzir os níveis de colesterol (LDL) e triglicerídeos, prevenindo doenças cardiovasculares.",
+    "categoria": "Hipolipemiante",
+    "preco": 15.5,
+    "estoque": 650,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Comprimidos Revestidos",
+    "detalhes": {
+      "fabricante": "MediChem",
+      "data_validade": "2025-08-10",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Comprimidos Revestidos"
+    }
+  },
+  {
+    "id": "A_005",
+    "nome": "Amlodipina Besilato",
+    "descricao": "Bloqueador dos canais de cálcio usado para tratar hipertensão e angina.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 7.2,
+    "estoque": 2100,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "HiperFarma",
+      "data_validade": "2026-06-25",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_006",
+    "nome": "Levocetirizina",
+    "descricao": "Anti-histamínico de segunda geração para o alívio de sintomas de alergias, como rinite e urticária.",
+    "categoria": "Anti-histamínico",
+    "preco": 5.8,
+    "estoque": 1100,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Alergitech",
+      "data_validade": "2025-09-12",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_007",
+    "nome": "Artemeter + Lumefantrina",
+    "descricao": "Combinação de antimaláricos altamente eficaz no tratamento da malária falciparum não complicada.",
+    "categoria": "Antimalárico",
+    "preco": 25,
+    "estoque": 3500,
+    "dosagem": "20mg/120mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "MalariaCare",
+      "data_validade": "2026-01-30",
+      "dosagem": "20mg/120mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_008",
+    "nome": "Lisinopril",
+    "descricao": "Inibidor da Enzima Conversora de Angiotensina (ECA) usado para tratar hipertensão e insuficiência cardíaca.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 9.1,
+    "estoque": 1400,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "CardioLife",
+      "data_validade": "2025-04-18",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_009",
+    "nome": "Espironolactona",
+    "descricao": "Diurético poupador de potássio e antagonista da aldosterona, usado em casos de edema e hipertensão.",
+    "categoria": "Diurético",
+    "preco": 4.5,
+    "estoque": 1600,
+    "dosagem": "25mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "NephroPharma",
+      "data_validade": "2026-10-05",
+      "dosagem": "25mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_010",
+    "nome": "Gliburida",
+    "descricao": "Medicamento oral para diabetes tipo 2, que estimula a produção de insulina pelo pâncreas.",
+    "categoria": "Hipoglicemiante Oral",
+    "preco": 6,
+    "estoque": 1050,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Diabetico Sul",
+      "data_validade": "2025-12-31",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_011",
+    "nome": "Nimesulida",
+    "descricao": "Anti-inflamatório e analgésico usado para o tratamento de dores e febre.",
+    "categoria": "Anti-inflamatório",
+    "preco": 2.95,
+    "estoque": 2300,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Viva Pharma",
+      "data_validade": "2024-11-01",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_012",
+    "nome": "Metronidazol",
+    "descricao": "Antibiótico e antiparasitário eficaz contra infeções causadas por bactérias anaeróbicas e protozoários.",
+    "categoria": "Antibiótico/Antiprotozoário",
+    "preco": 4.1,
+    "estoque": 3000,
+    "dosagem": "250mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "InfectoGuard",
+      "data_validade": "2026-07-20",
+      "dosagem": "250mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_013",
+    "nome": "Domperidona",
+    "descricao": "Antiemético utilizado para aliviar náuseas e vômitos, além de auxiliar na motilidade gástrica.",
+    "categoria": "Antiemético",
+    "preco": 6.5,
+    "estoque": 1700,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "GastroPharma",
+      "data_validade": "2025-05-19",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_014",
+    "nome": "Sildenafil Citrato",
+    "descricao": "Utilizado para tratar a disfunção erétil e hipertensão arterial pulmonar.",
+    "categoria": "Vasodilatador",
+    "preco": 22,
+    "estoque": 800,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Potencia Forte",
+      "data_validade": "2027-02-01",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_015",
+    "nome": "Ferro Quelato",
+    "descricao": "Suplemento de ferro usado na prevenção e tratamento de anemias ferroprivas.",
+    "categoria": "Suplemento Mineral",
+    "preco": 8.75,
+    "estoque": 4100,
+    "dosagem": "60mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "NutriVida",
+      "data_validade": "2025-10-01",
+      "dosagem": "60mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A_016",
+    "nome": "Bicarbonato de Sódio",
+    "descricao": "Antiácido e agente alcalinizante usado para tratar indigestão e acidose metabólica.",
+    "categoria": "Antiácido",
+    "preco": 1.2,
+    "estoque": 5000,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Química Básica",
+      "data_validade": "2026-04-10",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_017",
+    "nome": "Clorfeniramina Maleato",
+    "descricao": "Anti-histamínico de primeira geração, usado para o alívio temporário de sintomas de resfriados e alergias.",
+    "categoria": "Anti-histamínico",
+    "preco": 2.5,
+    "estoque": 3200,
+    "dosagem": "4mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "GeralMed",
+      "data_validade": "2025-07-22",
+      "dosagem": "4mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_018",
+    "nome": "Piridoxina Cloridrato",
+    "descricao": "Vitamina B6, essencial para o metabolismo e o funcionamento do sistema nervoso.",
+    "categoria": "Vitamina",
+    "preco": 3.15,
+    "estoque": 2800,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "NutriAngola",
+      "data_validade": "2026-09-01",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_019",
+    "nome": "Rifampicina",
+    "descricao": "Antibiótico usado primariamente no tratamento da tuberculose e hanseníase.",
+    "categoria": "Antibiótico (Tuberculostático)",
+    "preco": 18,
+    "estoque": 700,
+    "dosagem": "300mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "TB Combat",
+      "data_validade": "2027-01-15",
+      "dosagem": "300mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A_020",
+    "nome": "Levotiroxina Sódica",
+    "descricao": "Hormônio sintético usado para tratar o hipotireoidismo.",
+    "categoria": "Hormônio",
+    "preco": 10.5,
+    "estoque": 1300,
+    "dosagem": "100mcg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "EndoSaúde",
+      "data_validade": "2025-06-30",
+      "dosagem": "100mcg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A_021",
+    "nome": "Piroxicam",
+    "descricao": "AINE de longa duração usado para o alívio de dor e inflamação em doenças reumáticas.",
+    "categoria": "Anti-inflamatório",
+    "preco": 5,
+    "estoque": 1900,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "ReumaPlus",
+      "data_validade": "2024-10-01",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A_022",
+    "nome": "Cloreto de Potássio",
+    "descricao": "Suplemento mineral usado para prevenir ou tratar a hipocalemia (baixo nível de potássio no sangue).",
+    "categoria": "Suplemento Mineral",
+    "preco": 3.8,
+    "estoque": 2700,
+    "dosagem": "600mg",
+    "forma_farmaceutica": "Comprimidos de Liberação Lenta",
+    "detalhes": {
+      "fabricante": "Electro Pharma",
+      "data_validade": "2026-05-14",
+      "dosagem": "600mg",
+      "forma_farmaceutica": "Comprimidos de Liberação Lenta"
+    }
+  },
+  {
+    "id": "A_023",
+    "nome": "Ganciclovir",
+    "descricao": "Medicamento antiviral utilizado para tratar infeções por citomegalovírus (CMV), especialmente em pacientes imunocomprometidos.",
+    "categoria": "Antiviral",
+    "preco": 35,
+    "estoque": 300,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Virotech",
+      "data_validade": "2025-03-01",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "A_024",
+    "nome": "Valaciclovir",
+    "descricao": "Pró-fármaco do aciclovir, usado para tratar infeções por herpes zoster, herpes simplex e varicela.",
+    "categoria": "Antiviral",
+    "preco": 19.5,
+    "estoque": 900,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos Revestidos",
+    "detalhes": {
+      "fabricante": "Herpes Relief",
+      "data_validade": "2026-08-08",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos Revestidos"
+    }
+  },
+  {
+    "id": "A_025",
+    "nome": "Atenolol",
+    "descricao": "Betabloqueador seletivo usado para tratar hipertensão, angina e arritmias cardíacas.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 8.1,
+    "estoque": 1550,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "CardioFarm",
+      "data_validade": "2025-11-05",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M001",
+    "nome": "Dihidroartemisinina + Piperaquina",
+    "descricao": "Tratamento combinado para malária não complicada.",
+    "categoria": "Antimalárico",
+    "preco": 15.5,
+    "estoque": 5000,
+    "dosagem": "40mg/320mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2025-11-01",
+      "dosagem": "40mg/320mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M002",
+    "nome": "Paracetamol",
+    "descricao": "Alívio de dor e febre, dosagem mais elevada.",
+    "categoria": "Analgésico",
+    "preco": 2.8,
+    "estoque": 12000,
+    "dosagem": "750mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "AngoFarm",
+      "data_validade": "2024-12-15",
+      "dosagem": "750mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M003",
+    "nome": "Claritromicina",
+    "descricao": "Antibiótico macrolídeo para infecções respiratórias e cutâneas.",
+    "categoria": "Antibiótico",
+    "preco": 25,
+    "estoque": 3500,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos Revestidos",
+    "detalhes": {
+      "fabricante": "Kwanza Med",
+      "data_validade": "2026-03-20",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos Revestidos"
+    }
+  },
+  {
+    "id": "M004",
+    "nome": "Lansoprazol",
+    "descricao": "Inibidor da bomba de protões para úlceras e refluxo gastroesofágico.",
+    "categoria": "Gastrointestinal",
+    "preco": 18,
+    "estoque": 4500,
+    "dosagem": "30mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Benguela Drugs",
+      "data_validade": "2025-09-10",
+      "dosagem": "30mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "M005",
+    "nome": "Dexametasona",
+    "descricao": "Corticosteroide potente com efeitos anti-inflamatórios e imunossupressores.",
+    "categoria": "Corticosteroide",
+    "preco": 5.5,
+    "estoque": 7000,
+    "dosagem": "4mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Huambo Labs",
+      "data_validade": "2024-11-28",
+      "dosagem": "4mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M006",
+    "nome": "Simvastatina",
+    "descricao": "Utilizado para reduzir os níveis elevados de colesterol e triglicerídeos.",
+    "categoria": "Hipolipemiante",
+    "preco": 12,
+    "estoque": 2800,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "SinoPharm AG",
+      "data_validade": "2026-06-01",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M007",
+    "nome": "Metoclopramida",
+    "descricao": "Antiemético e procinético para náuseas e vómitos.",
+    "categoria": "Gastrointestinal",
+    "preco": 3.2,
+    "estoque": 9500,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Global Saúde",
+      "data_validade": "2025-05-18",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M008",
+    "nome": "Fluconazol",
+    "descricao": "Tratamento de infecções fúngicas sistémicas e mucosas.",
+    "categoria": "Antifúngico",
+    "preco": 14.5,
+    "estoque": 4000,
+    "dosagem": "150mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Pharma Sul",
+      "data_validade": "2027-01-05",
+      "dosagem": "150mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "M009",
+    "nome": "Gliclazida",
+    "descricao": "Sulfonilureia utilizada no tratamento de diabetes tipo 2.",
+    "categoria": "Antidiabético Oral",
+    "preco": 9.9,
+    "estoque": 3200,
+    "dosagem": "60mg",
+    "forma_farmaceutica": "Comprimidos de Libertação Modificada",
+    "detalhes": {
+      "fabricante": "Saúde Plus",
+      "data_validade": "2025-08-22",
+      "dosagem": "60mg",
+      "forma_farmaceutica": "Comprimidos de Libertação Modificada"
+    }
+  },
+  {
+    "id": "M010",
+    "nome": "Budesonida",
+    "descricao": "Corticosteroide inalatório para controlo da asma e DPOC.",
+    "categoria": "Respiratório",
+    "preco": 45,
+    "estoque": 1500,
+    "dosagem": "200mcg/dose",
+    "forma_farmaceutica": "Aerossol",
+    "detalhes": {
+      "fabricante": "VitaLuz",
+      "data_validade": "2026-04-10",
+      "dosagem": "200mcg/dose",
+      "forma_farmaceutica": "Aerossol"
+    }
+  },
+  {
+    "id": "M011",
+    "nome": "Ácido Acetilsalicílico",
+    "descricao": "Anti-inflamatório não esteroide (AINE) e antiplaquetário.",
+    "categoria": "Cardiovascular/Analgésico",
+    "preco": 4,
+    "estoque": 15000,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farma Oeste",
+      "data_validade": "2025-03-01",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M012",
+    "nome": "Pirimetamina",
+    "descricao": "Utilizado no tratamento e prevenção de malária e toxoplasmose.",
+    "categoria": "Antimalárico",
+    "preco": 8.5,
+    "estoque": 6000,
+    "dosagem": "25mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Angola Health",
+      "data_validade": "2024-10-30",
+      "dosagem": "25mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M013",
+    "nome": "Clonazepam",
+    "descricao": "Benzodiazepina para tratamento de distúrbios de ansiedade e convulsões.",
+    "categoria": "Sistema Nervoso Central",
+    "preco": 22,
+    "estoque": 1800,
+    "dosagem": "2mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Soma Control",
+      "data_validade": "2026-07-19",
+      "dosagem": "2mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M014",
+    "nome": "Tramadol Cloridrato",
+    "descricao": "Analgésico opioide central para dor moderada a intensa.",
+    "categoria": "Analgésico",
+    "preco": 10.5,
+    "estoque": 5500,
+    "dosagem": "50mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Pharma Forte",
+      "data_validade": "2025-12-05",
+      "dosagem": "50mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "M015",
+    "nome": "Levofloxacino",
+    "descricao": "Antibiótico fluoroquinolona para infecções bacterianas graves.",
+    "categoria": "Antibiótico",
+    "preco": 30,
+    "estoque": 2900,
+    "dosagem": "750mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "BioLife AG",
+      "data_validade": "2027-02-14",
+      "dosagem": "750mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M016",
+    "nome": "Butilescopolamina",
+    "descricao": "Antiespasmódico para alívio de cólicas abdominais.",
+    "categoria": "Antiespasmódico",
+    "preco": 6.7,
+    "estoque": 8000,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Med Luanda",
+      "data_validade": "2025-07-30",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M017",
+    "nome": "Ciprofloxacino",
+    "descricao": "Antibiótico para tratamento de infecções urinárias e gastrointestinais.",
+    "categoria": "Antibiótico",
+    "preco": 16.5,
+    "estoque": 4800,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Health Kilo",
+      "data_validade": "2026-10-01",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M018",
+    "nome": "Lactulose",
+    "descricao": "Laxante osmótico para tratamento de constipação e encefalopatia hepática.",
+    "categoria": "Laxante",
+    "preco": 28,
+    "estoque": 2500,
+    "dosagem": "667mg/ml",
+    "forma_farmaceutica": "Xarope",
+    "detalhes": {
+      "fabricante": "Pharma Gobe",
+      "data_validade": "2025-06-12",
+      "dosagem": "667mg/ml",
+      "forma_farmaceutica": "Xarope"
+    }
+  },
+  {
+    "id": "M019",
+    "nome": "Cetoprofeno",
+    "descricao": "Anti-inflamatório não esteroide (AINE) para dor e inflamação.",
+    "categoria": "AINE",
+    "preco": 7.5,
+    "estoque": 6500,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Moxico Generics",
+      "data_validade": "2024-11-01",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "M020",
+    "nome": "Tiamina",
+    "descricao": "Suplemento de Vitamina B1, essencial para o metabolismo energético.",
+    "categoria": "Suplemento Vitamínico",
+    "preco": 5,
+    "estoque": 10000,
+    "dosagem": "300mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Health Vita",
+      "data_validade": "2026-09-09",
+      "dosagem": "300mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M021",
+    "nome": "Prometazina",
+    "descricao": "Anti-histamínico de primeira geração com propriedades sedativas e antieméticas.",
+    "categoria": "Anti-histamínico",
+    "preco": 6,
+    "estoque": 7200,
+    "dosagem": "25mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Pharma Central",
+      "data_validade": "2025-04-25",
+      "dosagem": "25mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M022",
+    "nome": "Ivermectina",
+    "descricao": "Medicamento antiparasitário de amplo espectro, incluindo escabiose.",
+    "categoria": "Antiparasitário",
+    "preco": 11,
+    "estoque": 3000,
+    "dosagem": "6mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Med Tropic",
+      "data_validade": "2026-01-15",
+      "dosagem": "6mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "M023",
+    "nome": "Ondansetrona",
+    "descricao": "Potente antiemético usado para náuseas e vômitos induzidos por quimioterapia.",
+    "categoria": "Antiemético",
+    "preco": 19.5,
+    "estoque": 2200,
+    "dosagem": "8mg",
+    "forma_farmaceutica": "Comprimidos ODT",
+    "detalhes": {
+      "fabricante": "Sul Atlantic Pharma",
+      "data_validade": "2027-05-01",
+      "dosagem": "8mg",
+      "forma_farmaceutica": "Comprimidos ODT"
+    }
+  },
+  {
+    "id": "M024",
+    "nome": "Carbonato de Cálcio",
+    "descricao": "Suplemento mineral essencial para a saúde óssea e antiácido.",
+    "categoria": "Suplemento Mineral",
+    "preco": 8,
+    "estoque": 9000,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Comprimidos Mastigáveis",
+    "detalhes": {
+      "fabricante": "Nutri Angola",
+      "data_validade": "2025-10-01",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Comprimidos Mastigáveis"
+    }
+  },
+  {
+    "id": "M025",
+    "nome": "Ambroxol",
+    "descricao": "Mucolítico e expectorante utilizado para facilitar a eliminação de secreções respiratórias.",
+    "categoria": "Respiratório",
+    "preco": 10,
+    "estoque": 5800,
+    "dosagem": "30mg/5ml",
+    "forma_farmaceutica": "Xarope",
+    "detalhes": {
+      "fabricante": "Pharma East",
+      "data_validade": "2024-12-01",
+      "dosagem": "30mg/5ml",
+      "forma_farmaceutica": "Xarope"
+    }
+  },
+  {
+    "id": "A001",
+    "nome": "Cefalexina",
+    "descricao": "Antibiótico cefalosporínico de primeira geração para tratar infecções bacterianas.",
+    "categoria": "Antibiótico",
+    "preco": 350.5,
+    "estoque": 1250,
+    "dosagem": "500mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2025-11-01",
+      "dosagem": "500mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A002",
+    "nome": "Enalapril Maleato",
+    "descricao": "Inibidor da ECA usado no tratamento da hipertensão arterial e insuficiência cardíaca.",
+    "categoria": "Cardiovascular",
+    "preco": 120.75,
+    "estoque": 890,
+    "dosagem": "10mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "AngoMedica",
+      "data_validade": "2026-03-15",
+      "dosagem": "10mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A003",
+    "nome": "Pantoprazol Sódico",
+    "descricao": "Inibidor da bomba de prótons para tratamento de úlceras e refluxo gastroesofágico.",
+    "categoria": "Gastrointestinal",
+    "preco": 450,
+    "estoque": 1500,
+    "dosagem": "40mg",
+    "forma_farmaceutica": "Comprimidos de liberação retardada",
+    "detalhes": {
+      "fabricante": "Kilamba Health",
+      "data_validade": "2025-08-20",
+      "dosagem": "40mg",
+      "forma_farmaceutica": "Comprimidos de liberação retardada"
+    }
+  },
+  {
+    "id": "A004",
+    "nome": "Mebendazol",
+    "descricao": "Anti-helmíntico amplamente utilizado para tratar infecções por vermes.",
+    "categoria": "Anti-parasitário",
+    "preco": 85.2,
+    "estoque": 3000,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Suspensão Oral",
+    "detalhes": {
+      "fabricante": "Farmanguim",
+      "data_validade": "2027-01-10",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Suspensão Oral"
+    }
+  },
+  {
+    "id": "A005",
+    "nome": "Quinina Sulfato",
+    "descricao": "Tratamento de segunda linha para malária não complicada resistente a outros fármacos.",
+    "categoria": "Antimalárico",
+    "preco": 280.9,
+    "estoque": 950,
+    "dosagem": "300mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Saúde Total Angola",
+      "data_validade": "2025-12-05",
+      "dosagem": "300mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A006",
+    "nome": "Eritromicina",
+    "descricao": "Antibiótico macrolídeo eficaz contra infecções respiratórias e cutâneas.",
+    "categoria": "Antibiótico",
+    "preco": 320,
+    "estoque": 700,
+    "dosagem": "250mg",
+    "forma_farmaceutica": "Comprimidos Revestidos",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2026-07-25",
+      "dosagem": "250mg",
+      "forma_farmaceutica": "Comprimidos Revestidos"
+    }
+  },
+  {
+    "id": "A007",
+    "nome": "Tenoxicam",
+    "descricao": "Anti-inflamatório não esteroidal (AINE) para alívio de dor e inflamação.",
+    "categoria": "Analgésico/AINE",
+    "preco": 155.5,
+    "estoque": 1100,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "AngoMedica",
+      "data_validade": "2025-10-30",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A008",
+    "nome": "Desloratadina",
+    "descricao": "Anti-histamínico de segunda geração para o tratamento de rinite alérgica e urticária.",
+    "categoria": "Antialérgico",
+    "preco": 210.3,
+    "estoque": 650,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Kilamba Health",
+      "data_validade": "2027-02-01",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A009",
+    "nome": "Sulfato Ferroso",
+    "descricao": "Suplemento de ferro usado na prevenção e tratamento de anemias ferroprivas.",
+    "categoria": "Suplemento",
+    "preco": 65,
+    "estoque": 4500,
+    "dosagem": "40mg (Ferro Elementar)",
+    "forma_farmaceutica": "Gotas",
+    "detalhes": {
+      "fabricante": "Farmanguim",
+      "data_validade": "2026-04-12",
+      "dosagem": "40mg (Ferro Elementar)",
+      "forma_farmaceutica": "Gotas"
+    }
+  },
+  {
+    "id": "A010",
+    "nome": "Pioglitazona",
+    "descricao": "Medicamento antidiabético oral para melhorar o controle glicêmico em diabetes tipo 2.",
+    "categoria": "Endocrinologia",
+    "preco": 390.8,
+    "estoque": 500,
+    "dosagem": "15mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Saúde Total Angola",
+      "data_validade": "2025-09-01",
+      "dosagem": "15mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A011",
+    "nome": "Rosuvastatina Cálcica",
+    "descricao": "Usado para reduzir o colesterol LDL e prevenir doenças cardiovasculares.",
+    "categoria": "Cardiovascular",
+    "preco": 610,
+    "estoque": 400,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2027-05-20",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A012",
+    "nome": "Nifedipina",
+    "descricao": "Bloqueador dos canais de cálcio usado para tratar hipertensão e angina.",
+    "categoria": "Cardiovascular",
+    "preco": 180,
+    "estoque": 1300,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Cápsulas de liberação prolongada",
+    "detalhes": {
+      "fabricante": "AngoMedica",
+      "data_validade": "2026-08-18",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Cápsulas de liberação prolongada"
+    }
+  },
+  {
+    "id": "A013",
+    "nome": "Gentamicina",
+    "descricao": "Antibiótico aminoglicosídeo injetável para tratar infecções bacterianas graves.",
+    "categoria": "Antibiótico",
+    "preco": 95.9,
+    "estoque": 2200,
+    "dosagem": "80mg/2ml",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Kilamba Health",
+      "data_validade": "2025-11-11",
+      "dosagem": "80mg/2ml",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "A014",
+    "nome": "Aminofilina",
+    "descricao": "Broncodilatador usado no tratamento de asma e DPOC.",
+    "categoria": "Respiratório",
+    "preco": 115.5,
+    "estoque": 800,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmanguim",
+      "data_validade": "2026-06-05",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A015",
+    "nome": "Indapamida",
+    "descricao": "Diurético tiazídico-like para o tratamento de hipertensão e edema.",
+    "categoria": "Diurético",
+    "preco": 170,
+    "estoque": 750,
+    "dosagem": "1.5mg",
+    "forma_farmaceutica": "Comprimidos de liberação prolongada",
+    "detalhes": {
+      "fabricante": "Saúde Total Angola",
+      "data_validade": "2027-03-01",
+      "dosagem": "1.5mg",
+      "forma_farmaceutica": "Comprimidos de liberação prolongada"
+    }
+  },
+  {
+    "id": "A016",
+    "nome": "Naproxeno Sódico",
+    "descricao": "AINE potente utilizado para dor, febre e condições reumáticas.",
+    "categoria": "Analgésico/AINE",
+    "preco": 190.4,
+    "estoque": 1800,
+    "dosagem": "550mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2025-11-28",
+      "dosagem": "550mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A017",
+    "nome": "Fluoxetina Cloridrato",
+    "descricao": "Inibidor seletivo da recaptação de serotonina (ISRS) para tratar depressão e ansiedade.",
+    "categoria": "Psicotrópico",
+    "preco": 240.1,
+    "estoque": 920,
+    "dosagem": "20mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "AngoMedica",
+      "data_validade": "2026-10-01",
+      "dosagem": "20mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A018",
+    "nome": "Cianocobalamina",
+    "descricao": "Vitamina B12, essencial para a formação de células sanguíneas e função nervosa.",
+    "categoria": "Suplemento",
+    "preco": 75,
+    "estoque": 3500,
+    "dosagem": "1000mcg",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Kilamba Health",
+      "data_validade": "2027-04-05",
+      "dosagem": "1000mcg",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "A019",
+    "nome": "Proguanil Cloridrato",
+    "descricao": "Profilaxia e tratamento de certos tipos de malária, frequentemente usado em combinação.",
+    "categoria": "Antimalárico",
+    "preco": 310.6,
+    "estoque": 600,
+    "dosagem": "200mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmanguim",
+      "data_validade": "2025-07-15",
+      "dosagem": "200mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A020",
+    "nome": "Verapamil Cloridrato",
+    "descricao": "Bloqueador dos canais de cálcio para angina, hipertensão e arritmias.",
+    "categoria": "Cardiovascular",
+    "preco": 270.5,
+    "estoque": 780,
+    "dosagem": "80mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Saúde Total Angola",
+      "data_validade": "2026-09-22",
+      "dosagem": "80mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A021",
+    "nome": "Cisaprida",
+    "descricao": "Agente procinético usado para melhorar a motilidade gastrointestinal.",
+    "categoria": "Gastrointestinal",
+    "preco": 140,
+    "estoque": 1050,
+    "dosagem": "5mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Luanda Pharma",
+      "data_validade": "2025-10-10",
+      "dosagem": "5mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A022",
+    "nome": "Celecoxibe",
+    "descricao": "AINE inibidor seletivo da COX-2 para o tratamento de osteoartrite e dor.",
+    "categoria": "Analgésico/AINE",
+    "preco": 380,
+    "estoque": 550,
+    "dosagem": "200mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "AngoMedica",
+      "data_validade": "2027-01-20",
+      "dosagem": "200mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "A023",
+    "nome": "Vitamina D3 (Colecalciferol)",
+    "descricao": "Suplemento essencial para a saúde óssea e função imunológica.",
+    "categoria": "Suplemento",
+    "preco": 95.5,
+    "estoque": 4000,
+    "dosagem": "5000UI",
+    "forma_farmaceutica": "Cápsulas Gelatinosas",
+    "detalhes": {
+      "fabricante": "Kilamba Health",
+      "data_validade": "2026-12-01",
+      "dosagem": "5000UI",
+      "forma_farmaceutica": "Cápsulas Gelatinosas"
+    }
+  },
+  {
+    "id": "A024",
+    "nome": "Teofilina",
+    "descricao": "Broncodilatador de liberação sustentada para o manejo crônico da asma e DPOC.",
+    "categoria": "Respiratório",
+    "preco": 160.7,
+    "estoque": 680,
+    "dosagem": "300mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Farmanguim",
+      "data_validade": "2025-08-08",
+      "dosagem": "300mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "A025",
+    "nome": "Hidrocortisona",
+    "descricao": "Corticosteroide usado para tratar inflamações e reações alérgicas graves.",
+    "categoria": "Corticosteroide",
+    "preco": 330.9,
+    "estoque": 1450,
+    "dosagem": "100mg",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Saúde Total Angola",
+      "data_validade": "2026-05-15",
+      "dosagem": "100mg",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "F001",
+    "nome": "Povidona Iodo",
+    "descricao": "Antisséptico tópico para desinfecção de pele e feridas.",
+    "categoria": "Antisséptico",
+    "preco": 2.5,
+    "estoque": 500,
+    "dosagem": "10%",
+    "forma_farmaceutica": "Solução Tópica",
+    "detalhes": {
+      "fabricante": "Laboratórios LuandaPharma",
+      "data_validade": "2025-11-01",
+      "dosagem": "10%",
+      "forma_farmaceutica": "Solução Tópica"
+    }
+  },
+  {
+    "id": "F002",
+    "nome": "Glimepirida",
+    "descricao": "Medicamento oral para o tratamento de diabetes mellitus tipo 2.",
+    "categoria": "Hipoglicemiante Oral",
+    "preco": 8.3,
+    "estoque": 350,
+    "dosagem": "2 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Angola Meds",
+      "data_validade": "2026-04-15",
+      "dosagem": "2 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F003",
+    "nome": "Clindamicina Fosfato",
+    "descricao": "Antibiótico utilizado para tratar infecções bacterianas graves.",
+    "categoria": "Antibiótico",
+    "preco": 22,
+    "estoque": 120,
+    "dosagem": "600 mg",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Global Saúde SA",
+      "data_validade": "2025-08-20",
+      "dosagem": "600 mg",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "F004",
+    "nome": "Fenitoína Sódica",
+    "descricao": "Usado para controlar certos tipos de convulsões (epilepsia).",
+    "categoria": "Anticonvulsivante",
+    "preco": 6.5,
+    "estoque": 280,
+    "dosagem": "100 mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Farmacêutica Central",
+      "data_validade": "2027-01-10",
+      "dosagem": "100 mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "F005",
+    "nome": "Tiocolchicosido",
+    "descricao": "Relaxante muscular usado para contraturas e dor muscular.",
+    "categoria": "Relaxante Muscular",
+    "preco": 11.2,
+    "estoque": 190,
+    "dosagem": "4 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Health Solutions Africa",
+      "data_validade": "2026-09-05",
+      "dosagem": "4 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F006",
+    "nome": "Brometo de Ipratrópio",
+    "descricao": "Broncodilatador para tratamento de DPOC e asma.",
+    "categoria": "Respiratório",
+    "preco": 18.99,
+    "estoque": 150,
+    "dosagem": "0.25 mg/ml",
+    "forma_farmaceutica": "Solução para Nebulização",
+    "detalhes": {
+      "fabricante": "Vita Pulmo",
+      "data_validade": "2025-10-30",
+      "dosagem": "0.25 mg/ml",
+      "forma_farmaceutica": "Solução para Nebulização"
+    }
+  },
+  {
+    "id": "F007",
+    "nome": "Acetazolamida",
+    "descricao": "Diurético e inibidor da anidrase carbônica, usado para glaucoma e edema.",
+    "categoria": "Diurético",
+    "preco": 10.5,
+    "estoque": 210,
+    "dosagem": "250 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Rio Cuanza Farm",
+      "data_validade": "2026-03-25",
+      "dosagem": "250 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F008",
+    "nome": "Sulfadiazina de Prata",
+    "descricao": "Creme antibacteriano usado para prevenir e tratar infecções em queimaduras.",
+    "categoria": "Queimaduras",
+    "preco": 14.6,
+    "estoque": 300,
+    "dosagem": "1%",
+    "forma_farmaceutica": "Creme Tópico",
+    "detalhes": {
+      "fabricante": "Derma Protect",
+      "data_validade": "2025-07-18",
+      "dosagem": "1%",
+      "forma_farmaceutica": "Creme Tópico"
+    }
+  },
+  {
+    "id": "F009",
+    "nome": "Norfloxacino",
+    "descricao": "Antibiótico fluoroquinolona usado para infecções do trato urinário e gastrointestinais.",
+    "categoria": "Antibiótico",
+    "preco": 12.9,
+    "estoque": 230,
+    "dosagem": "400 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Infectio Control",
+      "data_validade": "2026-12-01",
+      "dosagem": "400 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F010",
+    "nome": "Cetoconazol",
+    "descricao": "Agente antifúngico usado para infecções fúngicas sistêmicas e cutâneas.",
+    "categoria": "Antifúngico",
+    "preco": 9.7,
+    "estoque": 410,
+    "dosagem": "200 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Micro Kill",
+      "data_validade": "2027-05-10",
+      "dosagem": "200 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F011",
+    "nome": "Cloreto de Sódio 0.9%",
+    "descricao": "Solução fisiológica para hidratação e diluição de medicamentos.",
+    "categoria": "Fluidoterapia",
+    "preco": 6.8,
+    "estoque": 600,
+    "dosagem": "0.9%",
+    "forma_farmaceutica": "Solução Injetável (500ml)",
+    "detalhes": {
+      "fabricante": "Infusão Angola",
+      "data_validade": "2025-11-20",
+      "dosagem": "0.9%",
+      "forma_farmaceutica": "Solução Injetável"
+    }
+  },
+  {
+    "id": "F012",
+    "nome": "Metildopa",
+    "descricao": "Anti-hipertensivo utilizado especialmente no tratamento da hipertensão na gravidez.",
+    "categoria": "Anti-hipertensivo",
+    "preco": 9.15,
+    "estoque": 250,
+    "dosagem": "250 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Pharma Maternidade",
+      "data_validade": "2026-06-01",
+      "dosagem": "250 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F013",
+    "nome": "Levodopa e Carbidopa",
+    "descricao": "Combinação usada para tratar os sintomas da Doença de Parkinson.",
+    "categoria": "Neurológico",
+    "preco": 28.5,
+    "estoque": 100,
+    "dosagem": "250/25 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "NeuroCare Angola",
+      "data_validade": "2025-12-12",
+      "dosagem": "250/25 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F014",
+    "nome": "Niclosamida",
+    "descricao": "Anti-helmíntico específico para o tratamento de ténias (solitárias).",
+    "categoria": "Anti-helmíntico",
+    "preco": 4.1,
+    "estoque": 330,
+    "dosagem": "500 mg",
+    "forma_farmaceutica": "Comprimidos Mastigáveis",
+    "detalhes": {
+      "fabricante": "Parasita Free",
+      "data_validade": "2027-02-01",
+      "dosagem": "500 mg",
+      "forma_farmaceutica": "Comprimidos Mastigáveis"
+    }
+  },
+  {
+    "id": "F015",
+    "nome": "Brometo de Butilbrometo de Escopolamina",
+    "descricao": "Antiespasmódico usado para aliviar cólicas e espasmos gastrointestinais.",
+    "categoria": "Gastrointestinal",
+    "preco": 7.5,
+    "estoque": 450,
+    "dosagem": "10 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Espasmo Relief",
+      "data_validade": "2026-08-08",
+      "dosagem": "10 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F016",
+    "nome": "Prometazina",
+    "descricao": "Antialérgico e sedativo, também usado para náuseas e vômitos.",
+    "categoria": "Anti-histamínico",
+    "preco": 3.2,
+    "estoque": 550,
+    "dosagem": "25 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Sono Seguro Farm",
+      "data_validade": "2025-06-19",
+      "dosagem": "25 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F017",
+    "nome": "Succinato de Metoprolol",
+    "descricao": "Beta-bloqueador usado para tratar hipertensão, angina e insuficiência cardíaca.",
+    "categoria": "Cardiovascular",
+    "preco": 16.2,
+    "estoque": 180,
+    "dosagem": "50 mg",
+    "forma_farmaceutica": "Comprimidos de Liberação Estendida",
+    "detalhes": {
+      "fabricante": "Corazón Forte",
+      "data_validade": "2027-03-01",
+      "dosagem": "50 mg",
+      "forma_farmaceutica": "Comprimidos de Liberação Estendida"
+    }
+  },
+  {
+    "id": "F018",
+    "nome": "Cloridrato de Tioridazina",
+    "descricao": "Medicamento antipsicótico usado para tratar distúrbios psicóticos.",
+    "categoria": "Psiquiátrico",
+    "preco": 5.9,
+    "estoque": 140,
+    "dosagem": "100 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Mente Clara Labs",
+      "data_validade": "2026-11-28",
+      "dosagem": "100 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F019",
+    "nome": "Cloreto de Potássio",
+    "descricao": "Suplemento mineral para corrigir a deficiência de potássio (hipocalemia).",
+    "categoria": "Eletrólito",
+    "preco": 1.5,
+    "estoque": 800,
+    "dosagem": "600 mg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Minerais Essenciais",
+      "data_validade": "2025-09-01",
+      "dosagem": "600 mg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F020",
+    "nome": "Cefadroxil",
+    "descricao": "Antibiótico cefalosporina de primeira geração para infecções leves a moderadas.",
+    "categoria": "Antibiótico",
+    "preco": 15,
+    "estoque": 290,
+    "dosagem": "500 mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Cefa Life",
+      "data_validade": "2026-10-10",
+      "dosagem": "500 mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "F021",
+    "nome": "Fluoxetina",
+    "descricao": "Antidepressivo inibidor seletivo da recaptação da serotonina (ISRS).",
+    "categoria": "Psicotrópico",
+    "preco": 13.5,
+    "estoque": 170,
+    "dosagem": "20 mg",
+    "forma_farmaceutica": "Cápsulas",
+    "detalhes": {
+      "fabricante": "Sereno Pharma",
+      "data_validade": "2027-04-01",
+      "dosagem": "20 mg",
+      "forma_farmaceutica": "Cápsulas"
+    }
+  },
+  {
+    "id": "F022",
+    "nome": "Brometo de Hioscina",
+    "descricao": "Medicamento injetável para alívio rápido de espasmos musculares e cólicas.",
+    "categoria": "Antiespasmódico",
+    "preco": 19.5,
+    "estoque": 90,
+    "dosagem": "20 mg/ml",
+    "forma_farmaceutica": "Injetável",
+    "detalhes": {
+      "fabricante": "Emergência SA",
+      "data_validade": "2025-12-01",
+      "dosagem": "20 mg/ml",
+      "forma_farmaceutica": "Injetável"
+    }
+  },
+  {
+    "id": "F023",
+    "nome": "Levotiroxina",
+    "descricao": "Hormônio da tireoide usado para tratar o hipotireoidismo.",
+    "categoria": "Endócrino",
+    "preco": 10,
+    "estoque": 200,
+    "dosagem": "100 mcg",
+    "forma_farmaceutica": "Comprimidos",
+    "detalhes": {
+      "fabricante": "Tireo Reguladora",
+      "data_validade": "2026-07-20",
+      "dosagem": "100 mcg",
+      "forma_farmaceutica": "Comprimidos"
+    }
+  },
+  {
+    "id": "F024",
+    "nome": "Dextrose 5%",
+    "descricao": "Solução de glicose para hidratação e fornecimento calórico intravenoso.",
+    "categoria": "Fluidoterapia",
+    "preco": 5.5,
+    "estoque": 750,
+    "dosagem": "5%",
+    "forma_farmaceutica": "Solução Injetável (500ml)",
+    "detalhes": {
+      "fabricante": "Glicose Vita",
+      "data_validade": "2025-10-05",
+      "dosagem": "5%",
+      "forma_farmaceutica": "Solução Injetável"
+    }
+  },
+  {
+    "id": "F025",
+    "nome": "Benzilpenicilina Procaína",
+    "descricao": "Penicilina de ação prolongada para tratamento de sífilis e outras infecções sensíveis.",
+    "categoria": "Antibiótico",
+    "preco": 17.8,
+    "estoque": 130,
+    "dosagem": "400.000 UI",
+    "forma_farmaceutica": "Suspensão Injetável",
+    "detalhes": {
+      "fabricante": "Penicilina Forte",
+      "data_validade": "2026-01-01",
+      "dosagem": "400.000 UI",
+      "forma_farmaceutica": "Suspensão Injetável"
+    }
+  }
+]
